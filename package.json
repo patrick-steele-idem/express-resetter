@@ -21,5 +21,8 @@
   "license": "BSD",
   "bugs": {
     "url": "https://github.com/patrick-steele-idem/express-resetter/issues"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
   }
 }
