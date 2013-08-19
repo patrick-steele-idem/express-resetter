@@ -1,0 +1,25 @@
+{
+  "name": "express-resetter",
+  "version": "1.0.0",
+  "description": "Utility module to reset an Express instance to a previous state after registering middleware",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patrick-steele-idem/express-resetter.git"
+  },
+  "keywords": [
+    "express",
+    "reset",
+    "middleware",
+    "utility",
+    "hot reload"
+  ],
+  "author": "Patrick Steele-Idem <pnidem@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/patrick-steele-idem/express-resetter/issues"
+  }
+}
