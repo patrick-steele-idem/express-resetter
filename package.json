@@ -1,6 +1,6 @@
 {
   "name": "express-resetter",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Utility module to reset an Express instance to a previous state after registering middleware",
   "main": "lib/index.js",
   "scripts": {
